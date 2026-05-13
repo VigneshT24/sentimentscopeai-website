@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { TerminalWindow } from "@/components/terminal-window"
+import Link from "next/link"
 import { Package, Github, Shield, BarChart3, Cpu, Linkedin } from "lucide-react"
 
 export default function Home() {
@@ -264,6 +265,8 @@ export default function Home() {
             {/* 2. Center Section (Navigation) */}
             <div className="flex items-center gap-6 text-sm text-muted-foreground">
               <a href="#launchpage" className="hover:text-foreground transition-colors">Launch Page</a>
+
+              <Link href="/legalnotice" className="hover:text-foreground transition-colors">Legal Notice</Link>
               
               <a 
                 href="https://github.com/VigneshT24/SentimentScopeAI" 
