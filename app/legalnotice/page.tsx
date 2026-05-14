@@ -30,7 +30,7 @@ export default function NoticePage() {
 
           </p>
 
-          <h2 className="text-xl font-semibold mb-4 text-foreground">2. Third-Part Integration</h2>
+          <h2 className="text-xl font-semibold mb-4 text-foreground">2. Third-Party Integration</h2>
           <p className="text-muted-foreground mb-8 leading-relaxed">
             SentimentScopeAI includes a feature that imports customer reviews from a specific Yelp business, by utilizing Microsoft 
             Playwright MCP. However, we are not affiliated with, endorsed by, or partnered with Yelp Inc., therefore, users are solely responsible 
