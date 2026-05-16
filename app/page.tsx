@@ -48,7 +48,7 @@ export default function Home() {
               </h1>
               
               <p className="mt-6 text-lg text-muted-foreground leading-relaxed max-w-xl">
-                By leveraging our advanced CLI-based NLP pipeline, instantly process thousands of reviews to extract and frequency-rank the exact operational failures from your customer reviews that is your valuable company.
+                By leveraging our advanced CLI-based NLP pipeline, instantly process thousands of reviews to extract and frequency-rank the exact operational failures from your customer reviews that is impacting your valuable company.
               </p>
 
               {/* CTA Buttons */}
